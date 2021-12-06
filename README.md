@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivi
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m Shivam
+- 👀 I’m interested in C,Java,Node,React
+- 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on open source projects
